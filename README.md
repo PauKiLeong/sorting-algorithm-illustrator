@@ -11,16 +11,17 @@ Types of sort algorithm in this demo:
 SortAlgo_illustrator.cpp is the main C++ source and two classes created:
 - Engine.h contains an "Engine" class handles all algorithm computation and rendering.
 - Button.h contains a "Button" class handles object created to represent button in GUI.
+
 Data sample set size is set by size variable in main function. Current data set size is 30.
 Random data is generated using rand() in C++ STL.
 
 Directory
---project and source
-	-SortAlgo_illustrator.cpp
-	-Engine.h
-	-Button.h
-	...
---Release
+- project and source
+	- SortAlgo_illustrator.cpp
+	- Engine.h
+	- Button.h
+	- ...
+- Release
 
 Steps to access:
 1. Select "Download ZIP"    ![image](https://user-images.githubusercontent.com/87348560/129514145-cffe5a7d-0b2a-4861-9afd-c1c6ff9b65c1.png)
