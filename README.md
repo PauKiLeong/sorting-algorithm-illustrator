@@ -1,2 +1,31 @@
 # sorting-algorithm-illustrator
-Using C++ and SFML to illustrate some sorting algorithm.
+This project demo 5 types of sorting algorithm into graphics,
+written in C++ and using SFML libraries to realize graphical representation.
+Types of sort algorithm in this demo:
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Merge Sort
+5. Quick Sort
+
+SortAlgo_illustrator.cpp is the main C++ source and two classes created:
+- Engine.h contains an "Engine" class handles all algorithm computation and rendering.
+- Button.h contains a "Button" class handles object created to represent button in GUI.
+
+Directory
+	-- project and source
+		- SortAlgo_illustrator.cpp
+		- Engine.h
+		- Button.h
+		...
+	-- Release
+
+Steps to access:
+1. Select "Download ZIP"
+2. Go to "Release" folder and open .exe to view built application.
+3. Go to "project and source" folder and open .sln with Visual Studio to view project and source files.
+	*Please make sure "Solution Platform" is set to x86
+
+In case you have any problem linking up SFML libraries, please refer to:
+SFML and Visual Studio Setup Tutorial - https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+
