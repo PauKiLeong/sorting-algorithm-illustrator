@@ -1,0 +1,42 @@
+﻿  SortAlgo_illustrator.cpp
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Engine.h(201,7): warning C4189: 'ColorSW': local variable is initialized but not referenced
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Engine.h(343,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Engine.h(373,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Engine.h(404,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Engine.h(501,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Engine.h(548,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\SortAlgo_illustrator.cpp(46,27): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\SortAlgo_illustrator.cpp(47,22): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 127 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SortAlgo_illustrator.vcxproj -> C:\Users\leong\source\repos\PauKiLeong\sorting-algorithm-illustrator\Release\SortAlgo_illustrator.exe
