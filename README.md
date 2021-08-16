@@ -15,15 +15,15 @@ Data sample set size is set by size variable in main function. Current data set 
 Random data is generated using rand() in C++ STL.
 
 Directory
-	-- project and source
-		- SortAlgo_illustrator.cpp
-		- Engine.h
-		- Button.h
-		...
-	-- Release
+--project and source
+	-SortAlgo_illustrator.cpp
+	-Engine.h
+	-Button.h
+	...
+--Release
 
 Steps to access:
-1. Select "Download ZIP" ![image](https://user-images.githubusercontent.com/87348560/129514145-cffe5a7d-0b2a-4861-9afd-c1c6ff9b65c1.png)
+1. Select "Download ZIP"    ![image](https://user-images.githubusercontent.com/87348560/129514145-cffe5a7d-0b2a-4861-9afd-c1c6ff9b65c1.png)
 2. Go to "Release" folder and open .exe to view built application.
 3. Go to "project and source" folder and open .sln with Visual Studio to view project and source files.
 	*Please make sure "Solution Platform" is set to x86
